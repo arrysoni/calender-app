@@ -30,6 +30,7 @@ npm
 ```
 
 ##🗃️ Project Structure
+
 calendar-app/
 ├── src/
 │   ├── App.js
